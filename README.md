@@ -7,7 +7,7 @@
 Projeto Desenvolvido em React.Js como exercício da DIO no BootCamp dá OrangeTech+, ministrado pelo o Professor Pablo Henrique
 , foi dado um template desenvolvido pelo o Professor e nosso trabalho seria fazer uma calculadora.
 
-##### Template Base: https://github.com/digitalinnovationone/trilha-react-desafio-1
+##### Template Base: https://github.com/digitalinnovationone/trilha-react-desafio01-calculadora
 
 ## O que foi Utilizado:
 * HTML
